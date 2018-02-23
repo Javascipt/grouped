@@ -1,0 +1,27 @@
+{
+  "name": "grouped",
+  "version": "1.0.0",
+  "description": "Lists of grouped words by type",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javascipt/grouped.git"
+  },
+  "keywords": [
+    "words",
+    "types",
+    "grouped"
+  ],
+  "author": "Khalid Rehioui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javascipt/grouped/issues"
+  },
+  "homepage": "https://github.com/Javascipt/grouped#readme",
+  "devDependencies": {
+    "ava": "*"
+  }
+}

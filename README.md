@@ -1,4 +1,4 @@
-# Grouped [![Build Status](https://travis-ci.org/Javascipt/grouped.svg?branch=master)](https://travis-ci.org/javascipt/grouped)
+# Grouped [![Build Status](https://travis-ci.org/Javascipt/grouped.svg?branch=master)](https://travis-ci.org/Javascipt/grouped)
 
 This package is inspired by [`word-list`](https://github.com/sindresorhus/word-list), all credits should go to the author [Sindre Sorhus](https://github.com/sindresorhus). Some credits should also go to the author [Pass-phrase](https://github.com/aaronbassett/Pass-phrase) for the lists used in this package.
 

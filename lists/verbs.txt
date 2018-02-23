@@ -891,7 +891,6 @@ stuff
 sublet
 subtract
 succeed
-suck
 suffer
 suggest
 suit
